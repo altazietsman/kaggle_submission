@@ -1,0 +1,9 @@
+#import the following libraries
+
+numpy
+pandas
+matplotlib
+nltk
+re
+sklearn
+pickle
